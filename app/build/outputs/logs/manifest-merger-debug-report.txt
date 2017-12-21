@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\caad03642dae99141fbf1a1aee04c64d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4956eef7225315ca13c5331927f6ee34\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\811f88df574dfbeaff6d289f672cecff\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\1dc310d83a6ffd84c1f8521c4c9f3874\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\b54f277b384f62d62f695f4f258fa2c8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\7e7434abb01fd5500062fc8bee48d4d6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\fb8d40c50c230098f479c9a2b9b6e407\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\29ca6e7bbf6777820ce82a84375e0baf\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\1c9bf1a652dab012304a963a4a3748b1\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\caad03642dae99141fbf1a1aee04c64d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\caad03642dae99141fbf1a1aee04c64d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4956eef7225315ca13c5331927f6ee34\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4956eef7225315ca13c5331927f6ee34\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\811f88df574dfbeaff6d289f672cecff\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\811f88df574dfbeaff6d289f672cecff\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\1dc310d83a6ffd84c1f8521c4c9f3874\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\1dc310d83a6ffd84c1f8521c4c9f3874\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\b54f277b384f62d62f695f4f258fa2c8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\b54f277b384f62d62f695f4f258fa2c8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\7e7434abb01fd5500062fc8bee48d4d6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\7e7434abb01fd5500062fc8bee48d4d6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\fb8d40c50c230098f479c9a2b9b6e407\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\fb8d40c50c230098f479c9a2b9b6e407\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\29ca6e7bbf6777820ce82a84375e0baf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\29ca6e7bbf6777820ce82a84375e0baf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\1c9bf1a652dab012304a963a4a3748b1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\1c9bf1a652dab012304a963a4a3748b1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.journaldev.retrofitintro.MainActivity
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\caad03642dae99141fbf1a1aee04c64d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\caad03642dae99141fbf1a1aee04c64d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4956eef7225315ca13c5331927f6ee34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4956eef7225315ca13c5331927f6ee34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\811f88df574dfbeaff6d289f672cecff\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\811f88df574dfbeaff6d289f672cecff\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\1dc310d83a6ffd84c1f8521c4c9f3874\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\1dc310d83a6ffd84c1f8521c4c9f3874\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\b54f277b384f62d62f695f4f258fa2c8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\b54f277b384f62d62f695f4f258fa2c8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\7e7434abb01fd5500062fc8bee48d4d6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\7e7434abb01fd5500062fc8bee48d4d6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\fb8d40c50c230098f479c9a2b9b6e407\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\fb8d40c50c230098f479c9a2b9b6e407\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\29ca6e7bbf6777820ce82a84375e0baf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\29ca6e7bbf6777820ce82a84375e0baf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\1c9bf1a652dab012304a963a4a3748b1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\1c9bf1a652dab012304a963a4a3748b1\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\WeltesDev\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\caad03642dae99141fbf1a1aee04c64d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		ADDED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WeltesDev\Android Project\RetrofitIntro\app\src\main\AndroidManifest.xml
